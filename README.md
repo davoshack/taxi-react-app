@@ -1,6 +1,5 @@
-# Taxi App Using Django Channels
+# [Work In Progress... ] 🚧 Taxi App Using Django Channels
 ## Ride-sharing app using bi-directional communication with WebSockets and Django Channels
-
 ### Back-end
 - Python
 - Django
