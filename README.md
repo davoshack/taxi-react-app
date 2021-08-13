@@ -1,4 +1,4 @@
-# Uber App Using Django Channels
+# Taxi App Using Django Channels
 ## Ride-sharing app using bi-directional communication with WebSockets and Django Channels
 
 ### Back-end
