@@ -1,5 +1,5 @@
 # Uber App Using Django Channels
-## ride-sharing app using the bi-directional communication with WebSockets and Django Channels
+## Ride-sharing app using bi-directional communication with WebSockets and Django Channels
 
 ### Back-end
 - Python
